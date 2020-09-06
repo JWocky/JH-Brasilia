@@ -7195,7 +7195,7 @@ kids 0
 OBJECT poly
 name "fuselage"
 loc 1.01103 -0.238895 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 1982
 0.0513518 0.37234 -1.17066
@@ -21879,7 +21879,7 @@ kids 0
 OBJECT poly
 name "propelers_L"
 loc -0.269141 -0.345085 0.183047
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 40
 -2.52042 1.63858 3.15003
@@ -34028,7 +34028,7 @@ kids 0
 OBJECT poly
 name "pin_L"
 loc -0.269141 -0.345085 0.183047
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 73
 -2.37029 -0.225144 3.28015
@@ -34601,7 +34601,7 @@ kids 0
 OBJECT poly
 name "propelers_R"
 loc -0.269141 -0.345085 0.183047
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 40
 -2.52042 1.63858 -3.51613
@@ -35060,7 +35060,7 @@ kids 0
 OBJECT poly
 name "pin_R"
 loc -0.269141 -0.345085 0.183047
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 73
 -2.37029 -0.225144 -3.64625
@@ -36153,7 +36153,7 @@ kids 0
 OBJECT poly
 name "flap_RM"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 21
 1.82424 -0.613458 -3.22526
@@ -36277,7 +36277,7 @@ kids 0
 OBJECT poly
 name "flap_LM"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 21
 1.82424 -0.613458 2.85916
@@ -38259,7 +38259,7 @@ kids 0
 OBJECT poly
 name "nose_doo_fl"
 loc -6.96096 -1.35207 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 36
 -0.933005 0.131113 0.390086
@@ -38541,7 +38541,7 @@ kids 0
 OBJECT poly
 name "nosegearcomp"
 loc -6.96096 -1.35207 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 55
 -0.933005 0.121113 0.390086
@@ -38968,7 +38968,7 @@ kids 0
 OBJECT poly
 name "nose_doo_bl"
 loc -6.96096 -1.35207 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 24
 0.933005 -0.111113 0
@@ -39154,7 +39154,7 @@ kids 0
 OBJECT poly
 name "nose_doo_br"
 loc -6.96096 -1.35207 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 22
 0.168495 -0.0900731 0
@@ -39324,7 +39324,7 @@ kids 0
 OBJECT poly
 name "nose_doo_fr"
 loc -6.96096 -1.35207 0
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 36
 -0.933005 0.0381669 0
@@ -39606,7 +39606,7 @@ kids 0
 OBJECT poly
 name "PW_turbopropeller_L"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 82
 1.3468 -1.01682 2.73374
@@ -40395,7 +40395,7 @@ kids 0
 OBJECT poly
 name "landingear_FLL"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 7
 -1.26122 -0.881847 3.56633
@@ -40440,7 +40440,7 @@ kids 0
 OBJECT poly
 name "landingear_FRL"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 7
 -1.26122 -1.00898 3.15003
@@ -40485,7 +40485,7 @@ kids 0
 OBJECT poly
 name "landingear_BRL"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 5
 1.3468 -1.03374 3.15003
@@ -40511,7 +40511,7 @@ kids 0
 OBJECT poly
 name "landingear_BLL"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 5
 1.3468 -1.0013 3.41417
@@ -40537,7 +40537,7 @@ kids 0
 OBJECT poly
 name "PW_turbopropeller_R"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 82
 1.3468 -1.01682 -3.09983
@@ -41326,7 +41326,7 @@ kids 0
 OBJECT poly
 name "landingear_FLR"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 7
 -1.26122 -0.881847 -3.93242
@@ -41371,7 +41371,7 @@ kids 0
 OBJECT poly
 name "landingear_FRR"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 7
 -1.26122 -1.00898 -3.51612
@@ -41416,7 +41416,7 @@ kids 0
 OBJECT poly
 name "landingear_BRR"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 5
 1.3468 -1.03374 -3.51612
@@ -41442,7 +41442,7 @@ kids 0
 OBJECT poly
 name "landingear_BLR"
 loc -0.269141 -0.345085 0.183047
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 5
 1.3468 -1.0013 -3.78027
@@ -46784,7 +46784,7 @@ kids 9
 OBJECT poly
 name "aileron_L"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 29
 0.308845 -0.156906 7.96376
@@ -47085,7 +47085,7 @@ kids 0
 OBJECT poly
 name "flap_LE"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 22
 0.349811 -0.314308 6.18326
@@ -47185,7 +47185,7 @@ kids 0
 OBJECT poly
 name "aileron_R"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 29
 0.308845 -0.156906 -7.96375
@@ -47486,7 +47486,7 @@ kids 0
 OBJECT poly
 name "flap_RE"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 22
 0.863124 -0.339868 -6.18326
@@ -47586,7 +47586,7 @@ kids 0
 OBJECT poly
 name "elevator_L"
 loc 5.33331 2.02465 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 61
 0.0152121 -0.0995879 0.0520371
@@ -48065,7 +48065,7 @@ kids 0
 OBJECT poly
 name "hstab_L"
 loc 5.33331 2.02465 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 91
 -1.00681 0.00386095 0.0520371
@@ -48779,7 +48779,7 @@ kids 0
 OBJECT poly
 name "hstab_R"
 loc 5.33331 2.02465 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 91
 0.899332 4.76837e-007 -3.53519
@@ -49493,7 +49493,7 @@ kids 0
 OBJECT poly
 name "elevator_R"
 loc 5.33331 2.02465 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 61
 0.899332 4.76837e-007 -3.53519
@@ -49972,7 +49972,7 @@ kids 0
 OBJECT poly
 name "wing"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 596
 -0.763563 -0.768012 -1.00208
@@ -54604,7 +54604,7 @@ kids 1
 OBJECT poly
 name "flap_RI"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 22
 0.429146 -0.912068 -1.00208
@@ -54708,7 +54708,7 @@ kids 1
 OBJECT poly
 name "flap_LI"
 loc -4.26664 -1.61972 0
-texture "wings.png"
+texture "Liveries/Jafva-wings.png"
 crease 45.000000
 numvert 22
 0.978987 -0.739382 3.28625
@@ -54812,7 +54812,7 @@ kids 1
 OBJECT poly
 name "fuselage"
 loc -1.81673 -0.0117119 0.0676915
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 257
 -9.25644 -0.848993 0
@@ -61125,7 +61125,7 @@ kids 5
 OBJECT poly
 name "door_frontal"
 loc -1.81673 -0.011712 0.0676915
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 28
 -4.93254 1.19209e-007 1.23429
@@ -61227,7 +61227,7 @@ kids 0
 OBJECT poly
 name "indoor"
 loc -2.39969 -1.05055 -0.421042
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 336
 -2.77819 0.619473 1.56768
@@ -63671,7 +63671,7 @@ kids 0
 OBJECT poly
 name "fuselage_door_cargo"
 loc -1.81673 -0.011712 0.0676915
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 36
 5.51605 0.577464 0.927479
@@ -63866,7 +63866,7 @@ kids 0
 OBJECT poly
 name "vstab"
 loc 3.92495 0.542844 0.108984
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 284
 3.24149 0.127948 -0.0412923
@@ -66104,7 +66104,7 @@ kids 0
 OBJECT poly
 name "rudder"
 loc 3.92495 0.542844 0.108984
-texture "fuselage.png"
+texture "Liveries/Jafva-fuselage.png"
 crease 45.000000
 numvert 79
 3.38603 2.85929 0.086063
